@@ -18,18 +18,18 @@
 >>>- reworking the mathematical system for making desisions (delta distance between buoys)<br>
 >>> **status:** NOT STARTED<br>
 >>
->>>- generate or record more cases of buoys position ().<br>
->>> **status:** NOT STARTED<br>
+>>>generate or record more cases of buoys position ().<br>
+>>>**status:** NOT STARTED<br>
 >>
->>>- add cardinal buoys.<br>
->>> **status:** NOT STARTED<br>
+>>>add cardinal buoys.<br>
+>>>**status:** NOT STARTED<br>
 >>
->>>- tap into rral time video feed.<br>
->>> **status:** NOT STARTED<br>
+>>>tap into rral time video feed.<br>
+>>>**status:** NOT STARTED<br>
 >>
->>>- get some ideas of how to detect the OTTER (unknown obstacle).<br>
->>> **status:** NOT STARTED<br>
+>>>get some ideas of how to detect the OTTER (unknown obstacle).<br>
+>>>**status:** NOT STARTED<br>
 >>
->> **Observations:**<br>
+>>**Observations:**<br>
 
 **2025-04-29:**<br>
