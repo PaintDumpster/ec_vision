@@ -14,4 +14,20 @@
 >>- More cases need to be tested: when theres more than two buoys, when a buoy is partially obstrucuted, etc...<br>
 >>- Cardinal buoys need to be integrated into the class.
 
-> **2025-04-22:**
+> **2025-04-22:**<br>
+>>- reworking the mathematical system for making desisions (delta distance between buoys)<br>
+>>> **STATUS:** NOT STARTED<br>
+>>
+>>- generate or record more cases of buoys position ().<br>
+>>> **STATUS:** NOT STARTED<br>
+>>
+>>- add cardinal buoys.<br>
+>>> **STATUS:** NOT STARTED<br>
+>>
+>>- tap into rral time video feed.<br>
+>>> **STATUS:** NOT STARTED<br>
+>>
+>>- get some ideas of how to detect the OTTER (unknown obstacle).<br>
+>> **STATUS:** NOT STARTED<br>
+>>
+>> **Observations:**<br>
