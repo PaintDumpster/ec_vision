@@ -7,7 +7,7 @@
 
 ## Tasks:
 >**2025-04-11:**<br>
->>>Create a class that uses computer vision's color recognition to detect elements in the video feed and make the boat respond accordingly.
+>>>Create a class that uses computer vision's color recognition to detect elements in the video feed and make the boat respond accordingly.<br>
 >>>**status:** DONE<br>
 >>
 >>**observations:**<br>
