@@ -1,7 +1,7 @@
 # COMPUTER VISION CAPABILITIES FOR AQUATIC NAVIGATION
 > This repository contains all the scripts done by the software team of Iaac's engineering club realted to computer vision for boat manouvering.
 
-## Software team:
+## Software vision team:
 - [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/)
 - [Nouhaila Elmalouli](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
 
