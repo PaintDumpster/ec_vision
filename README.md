@@ -19,18 +19,23 @@
 >**2025-04-22:**<br>
 >>>reworking the mathematical system for making desisions (delta distance between buoys)<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Salvador
 >>
->>>generate or record more cases of buoys position ().<br>
+>>>generate or record more cases of buoys position.<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Salvador
 >>
 >>>add cardinal buoys.<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Nouhaila
 >>
->>>tap into rral time video feed.<br>
+>>>tap into real time video feed.<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Nouhaila
 >>
 >>>get some ideas of how to detect the OTTER (unknown obstacle).<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Nouhaila, Salvador
 >>
 >>**Observations:**<br>
 
