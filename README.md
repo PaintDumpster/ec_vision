@@ -18,7 +18,7 @@
 
 >**2025-04-22:**<br>
 >>>reworking the mathematical system for making desisions (delta distance between buoys)<br>
->>>**status:** NOT STARTED<br>
+>>>**status:** STARTED<br>
 >>>**assigned to:** Salvador
 >>
 >>>generate or record more cases of buoys position.<br>
