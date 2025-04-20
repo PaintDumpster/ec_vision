@@ -12,4 +12,10 @@
 *.vsix
 
 # folder to ignore
-data/
+data/Videos/*
+data/img/*
+
+
+# exceptions
+
+!data/Videos/output/output.mp4

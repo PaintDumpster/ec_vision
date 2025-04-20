@@ -1,7 +1,7 @@
 # COMPUTER VISION CAPABILITIES FOR AQUATIC NAVIGATION
-> This repository contains all the scripts done by the software team of Iaac's engineering club realted to computer vision for boat manouvering.
 
-## Software team:
+
+## Software vision team:
 - [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/)
 - [Nouhaila Elmalouli](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
 
@@ -18,20 +18,31 @@
 
 >**2025-04-22:**<br>
 >>>reworking the mathematical system for making desisions (delta distance between buoys)<br>
->>>**status:** NOT STARTED<br>
+>>>**status:** STARTED<br>
+>>>**assigned to:** Salvador
 >>
->>>generate or record more cases of buoys position ().<br>
->>>**status:** NOT STARTED<br>
+>>>generate or record more cases of buoys position.<br>
+>>>**status:** DONE<br>
+>>>**assigned to:** Salvador
+>>**Observations:**<br> The race path was reconstucted in rhinoceros to the exact specifications given by the competitons handbook and a video was recorded to be used as input. This new footage shed more light on what are the elements to take into consideration and where the script's weakpoints are.
+>> A video of the current performance (2025-04-20) is provided:
+>><video width='1756' height='1078' controls>
+>>  <source src='.data/output/output.mp4' type='video/mp4'>
+>></video>
 >>
 >>>add cardinal buoys.<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Nouhaila
+>>**Observations:**<br>
 >>
->>>tap into rral time video feed.<br>
+>>>tap into real time video feed.<br>
 >>>**status:** NOT STARTED<br>
+>>>**assigned to:** Nouhaila
+>>**Observations:**<br>
 >>
 >>>get some ideas of how to detect the OTTER (unknown obstacle).<br>
 >>>**status:** NOT STARTED<br>
->>
+>>>**assigned to:** Nouhaila, Salvador
 >>**Observations:**<br>
 
 >**2025-04-29:**<br>
