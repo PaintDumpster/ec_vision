@@ -25,12 +25,7 @@
 >>>**status:** DONE<br>
 >>>**assigned to:** Salvador<br>
 >>**Observations:**<br> The race path was reconstucted in rhinoceros to the exact specifications given by the competitons handbook and a video was recorded to be used as input. This new footage shed more light on what are the elements to take into consideration and where the script's weakpoints are.
->> A video of the current performance (2025-04-20) is provided:
-<video width="640" height="360" controls>
-  <source src="./data/output/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+>> [A video of the current performance (2025-04-20) is provided](https://youtu.be/pIJFHZwhgWk)
 >>
 >>>add cardinal buoys.<br>
 >>>**status:** NOT STARTED<br>
