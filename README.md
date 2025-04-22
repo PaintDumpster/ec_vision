@@ -1,4 +1,4 @@
-# COMPUTER VISION CAPABILITIES FOR AQUATIC NAVIGATION
+k# COMPUTER VISION CAPABILITIES FOR AQUATIC NAVIGATION
 
 
 ## Software vision team:
@@ -43,3 +43,8 @@
 >>**Observations:**<br>
 
 >**2025-04-29:**<br>
+>>>use the given dtaset and try object detection to get better segmentation of the buoys.<br>
+>>>**status:** NOT STARTED<br>
+>>>**assigned to:** Salvador
+>>**Observations:**<br>
+>>
