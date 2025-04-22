@@ -45,6 +45,6 @@ k# COMPUTER VISION CAPABILITIES FOR AQUATIC NAVIGATION
 >**2025-04-29:**<br>
 >>>use the given dtaset and try object detection to get better segmentation of the buoys.<br>
 >>>**status:** NOT STARTED<br>
->>>**assigned to:** Salvador
+>>>**assigned to:** Salvador<br>
 >>**Observations:**<br>
 >>
