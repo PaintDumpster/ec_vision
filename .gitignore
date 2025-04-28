@@ -13,5 +13,11 @@
 
 # folder to ignore
 data/
+.ec_vision/
+__pycache__/
+
+# files to ignore vision.ipynb
+*src/vision.ipynb
+
 
 # exceptions
