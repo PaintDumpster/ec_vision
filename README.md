@@ -1,6 +1,7 @@
 # COMPUTER VISION CAPABILITIES FOR AQUATIC NAVIGATION
 
 
+
 ## Software vision team:
 - [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/)
 - [Nouhaila Elmalouli](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
