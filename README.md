@@ -34,7 +34,7 @@
 >>
 >>>tap into real time video feed.<br>
 >>>**status:** `STARTED`<br>
->>>**assigned to:** Nouhaila
+>>>**assigned to:** Salvador
 >>**Observations:**<br>
 >>
 >>>get some ideas of how to detect the OTTER (unknown obstacle).<br>
