@@ -46,5 +46,5 @@
 >>>use the given dataset and try object detection to get better segmentation of the buoys.<br>
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
->>**Observations:**<br>
+>>**Observations:**<br> [link to new updates in performance](https://youtu.be/HbUlDyNRyM8)
 >>
