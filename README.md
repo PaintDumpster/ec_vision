@@ -43,7 +43,7 @@
 >>**Observations:**<br>
 
 >**2025-04-29:**<br>
->>>use the given dtaset and try object detection to get better segmentation of the buoys.<br>
+>>>use the given dataset and try object detection to get better segmentation of the buoys.<br>
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
 >>**Observations:**<br>
