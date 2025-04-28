@@ -18,7 +18,7 @@
 
 >**2025-04-22:**<br>
 >>>reworking the mathematical system for making desisions (delta distance between buoys)<br>
->>>**status:** `STARTED`<br>
+>>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador
 >>
 >>>generate or record more cases of buoys position.<br>
@@ -44,7 +44,7 @@
 
 >**2025-04-29:**<br>
 >>>use the given dtaset and try object detection to get better segmentation of the buoys.<br>
->>>**status:** `STARTED`<br>
+>>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
 >>**Observations:**<br>
 >>
