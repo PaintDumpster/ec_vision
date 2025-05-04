@@ -31,7 +31,7 @@
 >> [A video of the current performance (2025-04-20) is provided](https://youtu.be/pIJFHZwhgWk)
 >>
 >>>add cardinal buoys.<br>
->>>**status:** `NOT STARTED`<br>
+>>>**status:** `DONE`<br> 
 >>>**assigned to:** Nouhaila <br>
 >>
 >>**Observations:** <br>
