@@ -17,6 +17,10 @@
 >>- Cardinal buoys need to be integrated into the class.
 
 >**2025-04-22:**<br>
+>>>Detect red and green bouys + give directions according to different dispositions cases<br>
+>>>**status:** `DONE`<br>
+>>>**assigned to:** Nouhaila<br>
+>>
 >>>reworking the mathematical system for making desisions (delta distance between buoys)<br>
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
