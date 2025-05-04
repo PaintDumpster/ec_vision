@@ -57,7 +57,7 @@
 >>>**status:** `DONE`<br>
 >>>**assigned to:** Salvador<br>
 >>
->>>>>Try different YOLO models + Train it for object detection (bouys/obstacles/background elements...)r>
+>>>Try different YOLO models + Train it for object detection (bouys/obstacles/background elements...)r>
 >>>**status:** `STARTED`<br>
 >>>**assigned to:** Nouhaila<br>
 >>
